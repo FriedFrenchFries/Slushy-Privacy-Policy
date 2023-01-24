@@ -2,7 +2,7 @@
 Invitation of Slushy to your discord server means you have read, understood, and accepted these terms.  You also accept that all members in your discord server understand these terms.
 
 ## Disclaimer
-    It is forbidden to use Slushy to break the Discord Terms of Service and/or illegal purposes.  You also agree that you 13 years of age and the minimum age to digitally consent in your country, or have had a legal guarding review and accept these terms.
+    It is forbidden to use Slushy to abuse Discord TOS or use Slushy for illegal activities. Such actions will result in you or your server being blacklisted and unable to use Slushy.  You also agree that you 13 years of age and the minimum age to digitally consent in your country, or have had a legal guarding review and accept these terms.
 
 
 
